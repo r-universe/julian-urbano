@@ -1,14 +1,14 @@
 [
   {
-    "package": "gt4ireval",
-    "oncran": true
-  },
-  {
     "package": "ircor",
     "oncran": true
   },
   {
     "package": "simIReff",
+    "oncran": true
+  },
+  {
+    "package": "gt4ireval",
     "oncran": true
   }
 ]
